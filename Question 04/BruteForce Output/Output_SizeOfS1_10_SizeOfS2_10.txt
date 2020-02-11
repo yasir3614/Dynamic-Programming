@@ -1,0 +1,5 @@
+LCS of 3501586437 and 1880405765 is 
+1847 
+
+
+Average Execution Time: 30584 ns

@@ -1,0 +1,2 @@
+Length Of Longest SubSequence: 42
+Total Average Execution Time: 591669
